@@ -31,8 +31,8 @@ public class AirthmeticOperator {
 //		 s.nextDouble();
 //		 s.nextLong();
 		 
-	int a =3;
-		int b =10;
+//	int a =3;
+//		int b =10;
 ////		
 //		float a =3;
 //		float b =10;
@@ -41,11 +41,11 @@ public class AirthmeticOperator {
 //		float g = 5;
 //		//int c = a % b;
 //		//int c = a/b;  // Here as we have define int type so division will be of int type
-		float x = a/b; // Here answer will be decimal but not exact because right side is calculate first and type is int and it is stord in double.
+//		float x = a/b; // Here answer will be decimal but not exact because right side is calculate first and type is int and it is stord in double.
 //		
 //		float d =a+f/g; // Now here I have return 2.0 and 5.0 because compiler will take it as a float or double and calculate it accordingly and If I only take 2 and 5 it will take as an integer and give ans accordingly
 //		//System.out.println(c);
-		System.out.println(x);
+//		System.out.println(x);
 //		System.out.println(d);
 //		
 //		// Precend of /,*,% - are equal
@@ -57,6 +57,15 @@ public class AirthmeticOperator {
 //		
 //		float y = b/(2*a);
 //		System.out.println(y);
+		
+//		int a = s.ne
+		
+//		int a = 3;
+//		double b = 3.1;
+//		double c;
+//		
+//		c = a+b;
+//		System.out.println(c);
 	}
 
 }
