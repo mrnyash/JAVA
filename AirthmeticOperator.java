@@ -1,17 +1,17 @@
 package first;
 
-//import java.util.Scanner;
+import java.util.Scanner;
 public class AirthmeticOperator {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-//		Scanner s = new Scanner(System.in);
+		Scanner s = new Scanner(System.in);
 //		String str = s.next();
 //		int a = s.nextInt();
 //		int b = 2;
-//		System.out.print(str + " " + a );
-		
+//		System.out.print(str + " " + a[0] );
+//		
 		
 		
 //		Scanner s = new Scanner(System.in);
